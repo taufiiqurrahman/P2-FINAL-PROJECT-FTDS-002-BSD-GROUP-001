@@ -1,4 +1,4 @@
-### p2-final-project-ftds-002-bsd-group-001
+### P2-FINAL-PROJECT-FTDS-002-BSD-GROUP-001
 # Subscription Revenue Prediction for 2022
 
 **Team Members:**
