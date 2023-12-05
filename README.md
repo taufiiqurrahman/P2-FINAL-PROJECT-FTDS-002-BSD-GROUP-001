@@ -1,7 +1,7 @@
 ### P2-FINAL-PROJECT-FTDS-002-BSD-GROUP-001
 # Subscription Revenue Prediction 2022
 
-**Team Predict-X:**
+**Team Members:**
 - Audrey Wanto
 - Jeni Kasturi
 - Taufiqurrahman
