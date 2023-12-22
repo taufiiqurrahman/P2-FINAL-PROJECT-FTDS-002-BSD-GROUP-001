@@ -1,13 +1,6 @@
 '''
 ==================================================================================================
-Final Project (Dec 8 2023)
-
-Batch   : BSD-002
-Group   : 1
-Members : Audrey Wanto
-          Jeni Kasturi
-          Taufiqurrahman
-
+Project 
 Objective : This program is made to visualize the Directed Acyclic Graph (DAG) using Apache
             Airflow. As context with Data Engineering, the DAG will process the data extracted
             from the SQL database, in which the data will then be loaded and transformed.
